@@ -1,0 +1,18 @@
+.dark-1 {
+    color: #181818
+}
+
+.dark-2 {}
+
+.primary-color {
+    background-color: #FD6E0A;
+}
+
+.primary-btn {
+    background-color: #FD6E0A;
+    color: white;
+    font-size: 21px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
