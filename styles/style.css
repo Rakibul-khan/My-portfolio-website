@@ -202,8 +202,8 @@ hr{
 }
 footer{
     width: 100%;
-    height: 400px;
-    background-color:antiquewhite;
+    height: 500px;
+    background-color:rgb(232, 220, 207);
     display: flex;
     gap: 30px;
     margin-top: 30px;
